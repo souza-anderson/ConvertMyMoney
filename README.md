@@ -25,6 +25,7 @@ Este projeto pode ser colocado em produção utilizando o Vercel.
 
 - [Figma](https://figma.com/) - Online prototyping tool.
 - [ExpressJs](https://expressjs.com/pt-br/) - Ferramenta de criação de APIs
+- [EJS](https://ejs.co/) - Template Engine para renderização de páginas Web
 - [Jest](https://jestjs.io/) - Ferramenta para criação e execução de testes
 
 ## Author:
