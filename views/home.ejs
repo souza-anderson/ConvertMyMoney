@@ -1,7 +1,15 @@
 <%- include('header') %>
-  <form method="GET" action="/cotacao">
-    <input name="cotacao" placeholder="Cotação dólar" value="<%= cotacao %>"><br>
-    <input name="quantidade" placeholder="Quantidade dólares"><br>
-    <button>Converter!</button>
-  </form>
-  <%- include('footer') %>
+  <div class="container p-3 mb-2 bg-light text-dark">
+    <form method="GET" action="/cotacao">
+      <div class="input-group mb-3">
+        <span class="input-group-text">$</span>
+        <input type="number" name="cotacao" placeholder="Cotação dólar" value="<%= cotacao %>" required
+          class="form-control" aria-label="Amount (to the nearest dollar)"><br>
+      </div>
+      <div class="input-group mb-3">
+        <input type="number" name="quantidade" placeholder="Quantidade dólares" required class="form-control"
+          aria-label="Amount (to the nearest dollar)"><br>
+      </div>
+      <button class="btn btn-outline-primary btn-lg">Converter!</button>
+    </form>
+    <%- include('footer') %>
