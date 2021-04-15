@@ -1,6 +1,6 @@
 # ConvertMyMoney - Treinamento Full Stack Master
 
-[![HitCount](http://hits.dwyl.com/souza-anderson/souza-anderson/ConvertMyMoney.svg)](http://hits.dwyl.com/souza-anderson/souza-anderson/ConvertMyMoney)
+[![HitCount](https://hits.dwyl.com/souza-anderson/souza-anderson/convertmymoney.svg)](https://hits.dwyl.com/souza-anderson/souza-anderson/convertmymoney)
 
 Este projeto foi construído a partir treinamento Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://convert-my-money.souza-anderson.vercel.app/. O projeto tem como objetivo realizar uma conversão simples de dólar para real a partir da cotação informada.
 
